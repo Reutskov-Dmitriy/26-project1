@@ -57,7 +57,7 @@
 	z-index: 999;
 	min-width: 320px;
 	height: 100vh;
-	background: url(../../assets/images/HeaderBackground.png) 0 0/cover no-repeat;
+	background: url(../assets/images/HeaderBackground.png) 0 0/cover no-repeat;
 	padding: 34.22vh 18px 13.92vh;
 
 	&__column{
@@ -108,7 +108,7 @@
 		position: relative;
 		
 		&::after{
-			content: url(../../assets/images/icons/chevron-down.svg);
+			content: url(../assets/images/icons/chevron-down.svg);
 			position: absolute;
 			bottom: 0;
 			right: 50%;
@@ -333,7 +333,7 @@
 .motivation{
 	min-width: 320px;
 	min-height: 630px;
-	background:  url(../../assets/images/WhyBackground.png) 0 0/cover no-repeat;
+	background:  url(../assets/images/WhyBackground.png) 0 0/cover no-repeat;
 
 	&__column{
 		min-width: 100%;
@@ -451,11 +451,11 @@
 }
 
 .box--bg1 {
-	background: url(../../assets/images/book-now-spain.png) 0 0/cover no-repeat;
+	background: url(../assets/images/book-now-spain.png) 0 0/cover no-repeat;
 }
 
 .box--bg2{
-	background: url(../../assets/images/book-now-2.png) 0 0/cover no-repeat;
+	background: url(../assets/images/book-now-2.png) 0 0/cover no-repeat;
 }
 
 .box-card {
@@ -501,7 +501,7 @@
 	width: 320px;
 	min-width: 100%;
 	min-height: 100%;
-	background: url(../../assets/images/Review-BG.png) 0 0/cover no-repeat;
+	background: url(../assets/images/Review-BG.png) 0 0/cover no-repeat;
 	padding: 0 0 120px 0;
 
 
