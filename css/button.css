@@ -1,0 +1,17 @@
+.btn {
+  background-color: var(--color-accent);
+  color: var(--color-white);
+  font-family: var(--font-ar);
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  outline: none;
+  border: none;
+  transition: 1s;
+  height: 60px;
+}
+.btn:hover {
+  background-color: var(--color-accent-darker);
+}/*# sourceMappingURL=button.css.map */
