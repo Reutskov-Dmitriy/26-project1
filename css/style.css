@@ -484,6 +484,10 @@ a {
   color: var(--color-white);
 }
 
+._icon-search {
+  color: var(--color-accent);
+}
+
 .book-now {
   min-width: 100%;
   min-height: 100%;
