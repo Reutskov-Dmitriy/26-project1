@@ -16,7 +16,7 @@
 }
 @font-face {
   font-family: "icons";
-  src: url(../assets/fonts/);
+  src: url(../assets/fonts/icons.woff);
 }
 /*Reset*/
 * {
@@ -482,10 +482,6 @@ a {
 }
 .step__item p {
   color: var(--color-white);
-}
-
-._icon-search {
-  color: var(--color-accent);
 }
 
 .book-now {
